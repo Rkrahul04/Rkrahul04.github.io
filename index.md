@@ -26,6 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ![Minion](http://octodex.github.com/images/minion.png)
+![my_pic](C:\Users\1038139\Desktop\doc\1413098858_tmp_rahul_singh (2).jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

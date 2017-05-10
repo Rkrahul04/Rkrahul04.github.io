@@ -1,5 +1,6 @@
 ## Welcome to my Repository
-
+This is me.
+[Rahul](https://avatars2.githubusercontent.com/u/26433441?v=3&u=cdce6e8de39a968bf1d319ac2e12d38a3bc16295&s=400)
 we need to understand whats going on
 
 thanks

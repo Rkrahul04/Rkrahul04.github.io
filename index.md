@@ -11,8 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# 
-My name is rahul
+# My name is rahul
 ## Header 2
 ### Header 3
 
@@ -26,6 +25,7 @@ My name is rahul
 
 [Link](url) and ![Image](src)
 ```
+![Minion](http://octodex.github.com/images/minion.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

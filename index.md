@@ -149,11 +149,10 @@ Fork on [AdvanceMapreduce](https://github.com/Rkrahul04/AdvanceMapreduce)
 
 ## Achievements
 
-1. Edureka certified bigdata and hadoop developer
+- Edureka certified bigdata and hadoop developer
+  [certification Path](https://www.edureka.co/lms/certificate/8954c7eb8960af6ddc36aeda16b9e5f1)
 
-[certification Path](https://www.edureka.co/lms/certificate/8954c7eb8960af6ddc36aeda16b9e5f1)
-
-2. Edureka certified Datawarehousing Professional
+- Edureka certified Datawarehousing Professional
 
 ## Contacts
 

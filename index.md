@@ -44,13 +44,14 @@
 This article covers the sentiment analysis of any topic by parsing the tweets fetched from Twitter using apache fume.Sentiment Analysis is the process of ‘computationally’ determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining, deriving the opinion or attitude of a speaker.In this project ,main concentration points are Retweet_Count and Screen_Name. For more info , kindly click on [SentimentalAnalysisOfTwitter](https://rkrahul04.github.io/SentimentalAnalysisOfTwitter/) .
    
 
-* AirlinesAnalysis
+### AirlinesAnalysis
+
 ![image](https://camo.githubusercontent.com/3dba08cebaeb196dde3145fe1a1be75e8193783e/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476352776e4a457845682d4f334d6d584870335a5067715238353058383252674f4279585771456b437035645674445a506a6178)
 
 The proposed method is made by considering following scenario under consideration An Airport has huge amount of data related to number of flights, data and time of arrival and dispatch, flight routes, No. of airports operating in each country, list of active airlines in each country. The problem they faced till now it’s, they have ability to analyze limited data from databases. The Proposed model intension is to develop a model for the airline data to provide platform for new analytics based on the following queries. kindly click on [AirlinesAnalysis](https://rkrahul04.github.io/AirlinesAnalysis/)
 
 
-* Youtube-sDataAnalytics
+### Youtube-sDataAnalytics
 
 ![image](https://camo.githubusercontent.com/c3fe04b2b6981f1522b63ad5871f21f6d6f82534/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e643947635177454c554e5554365848557a6a6a64363356587637775369335041746a6143344a6d636a754d7a30396b4b6775664d44466677)
 

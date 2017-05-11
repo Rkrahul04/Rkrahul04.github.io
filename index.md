@@ -22,6 +22,13 @@
  
  ![image](https://avatars2.githubusercontent.com/u/26433441?v=3&u=cdce6e8de39a968bf1d319ac2e12d38a3bc16295&s=400)
 
-## Kindly click on the tabs to check the information.
-1. [SKILLS](https://rkrahul04.github.io/SKILL/)
-2. PROJECTS 
+## ![image](http://www.ugc.ac.in/skill/images/pic_6.jpg)
+
+### Big Data Ecosystems: Map Reduce, HDFS, HBase, Hive, Pig, Sqoop, Oozie and Flume.
+### Programming Languages: Pig, hive, sql and Java
+### Scripting Language: Unix
+### Databases: Oracle, MySQL and NoSql.
+### Tools: Eclipse, QTP ,IBM WMQ, zekyll, talend,weblogic 
+### Version Control: SVN, Github
+### Operating Systems: Windows […] and Linux , aix, CentOS.
+

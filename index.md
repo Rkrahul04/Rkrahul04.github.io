@@ -147,6 +147,18 @@ In this project, we will learn Advance MapReduce concepts such as Counters, Dist
 
 Fork on [AdvanceMapreduce](https://github.com/Rkrahul04/AdvanceMapreduce)
 
+## Achievements
+
+1. Edureka certified bigdata and hadoop developer
+
+[certification Path](https://www.edureka.co/lms/certificate/8954c7eb8960af6ddc36aeda16b9e5f1)
+
+2. Edureka certified Datawarehousing Professional
+
+## Contacts
+
+- [linkedin](https://www.linkedin.com/in/rahul-singh-85b1a1108/)
+- [Mail](irahulece@gmail.com)
 
 
 

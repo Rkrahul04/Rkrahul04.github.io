@@ -1,12 +1,4 @@
-## Welcome to my Repository
-This is me.
 
-![Rahul](https://avatars2.githubusercontent.com/u/26433441?v=3&u=cdce6e8de39a968bf1d319ac2e12d38a3bc16295&s=400)
+![IMAGE](https://tr2.cbsistatic.com/hub/i/r/2016/06/02/191827a1-5d53-448b-bc74-ea745fee7c44/resize/770x/b2bf48cf1112a8e3912cb58a4033ffa2/internetglocal.jpg)
 
-![gif](https://cdn-images-1.medium.com/max/600/1*tNxkCOvKTm6ykhFYROPLlg.gif)
-
-we need to understand whats going on
-
-thanks
-
-kindly follow me on [Git_hub_Project](https://rkrahul04.github.io/Stock-sCovarianceCalculationUsingHive/)
+  > Welcome To My Website

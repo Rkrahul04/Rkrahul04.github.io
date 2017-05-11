@@ -24,16 +24,39 @@
  
  
 
-## SKILL
+## Technical Skill
 
 ![image](http://www.ugc.ac.in/skill/images/pic_6.jpg)
 
-* Big Data Ecosystems: Map Reduce, HDFS, HBase, Hive, Pig, Sqoop, Oozie and Flume.*
+* Big Data Ecosystems: Map Reduce, HDFS, HBase, Hive, Pig, Sqoop, Oozie and Flume.
+* Programming Languages: Pig, hive, sql and Java
+* Scripting Language: Unix
+* Databases: Oracle, MySQL and NoSql.
+* Tools: Eclipse, QTP ,IBM WMQ, zekyll, talend,weblogic 
+* Version Control: SVN, Github
+* Operating Systems: Windows […] and Linux , aix, CentOS.
 
-* Programming Languages: Pig, hive, sql and Java*
-* Scripting Language: Unix* 
-### Databases: Oracle, MySQL and NoSql.
-### Tools: Eclipse, QTP ,IBM WMQ, zekyll, talend,weblogic 
-### Version Control: SVN, Github
-### Operating Systems: Windows […] and Linux , aix, CentOS.
+## Projects On Github
+
+### SentimentalAnalysisOfTwitter
+![image](https://camo.githubusercontent.com/02e0a1f438f79b850d6a7e5ba7f194e3de24941b/687474703a2f2f312e62702e626c6f6773706f742e636f6d2f2d42683041756b6f623635632f555a5557657744496e61492f41414141414141414142552f764c78636f314e485652382f733332302f73656e74696d656e742e6a70673d3130302a323030303030)
+This article covers the sentiment analysis of any topic by parsing the tweets fetched from Twitter using apache fume.Sentiment Analysis is the process of ‘computationally’ determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining, deriving the opinion or attitude of a speaker.In this project ,main concentration points are Retweet_Count and Screen_Name. For more inf
+   
+
+* AirlinesAnalysis
+* Youtube-sDataAnalytics
+* Movie-sDataAnalyticsUsingPig
+* LoanProjectusingMapReduce
+* Stock-sCovarianceCalculationUsingHive
+* HiveHealthCare
+* Student-WheatherProjectUsingPig
+* HealthCareUseCaseUsingPig
+* Pig_Concepts
+* AdvanceMapreduce
+* Bigdata_Example_in_Healthcare
+* -Find_Hot-_Cold_Days_mapreduce
+* Maximum_Temp_Calculation_mapreduce
+* Sub-Patents_count_mapreduce
+
+
 

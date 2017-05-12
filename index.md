@@ -157,7 +157,7 @@ Fork on [AdvanceMapreduce](https://github.com/Rkrahul04/AdvanceMapreduce)
 ## Contacts
 
 - [linkedin](https://www.linkedin.com/in/rahul-singh-85b1a1108/)
-- [Mail](irahulece@gmail.com)
+- Mail- *irahulece@gmail.com*
 - Mobile no -9821902605
 
 

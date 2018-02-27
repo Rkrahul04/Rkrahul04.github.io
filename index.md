@@ -6,7 +6,7 @@
 ## **About Me**
  
 ### Who Am I ?
- I am a bigdata/hadoop developer . Enjoy to analyse large datasets and derive meaningful information. Technology lover . Hunger for learning automation tools and bigdata and hadoop technology . Eager to use knowledge to solve business problems using my knowledge
+ I am a Data scientiest. Enjoy to analyse large datasets and derive meaningful information. Technology lover . Hunger for learning automation tools and bigdata and hadoop technology . Eager to use knowledge to solve business problems using my knowledge
  
 ### What I do ?
  Write code to analyse data and derive meaningful information . Manage code in version control system and use the change accoridng to business need . Write scripts to automate the process and reduce the process time .
